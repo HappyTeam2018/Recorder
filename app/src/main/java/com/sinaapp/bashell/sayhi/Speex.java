@@ -3,7 +3,7 @@ package com.sinaapp.bashell.sayhi;
 public class Speex {
 
 	/**
-	 * Ñ¹ËõÖÊÁ¿<br>
+	 * å‹ç¼©è´¨é‡<br>
 	 * 1 : 4kbps (very noticeable artifacts, usually intelligible) 10<br>
 	 * 2 : 6kbps (very noticeable artifacts, good intelligibility) 15<br>
 	 * 4 : 8kbps (noticeable artifacts sometimes) 20<br>
